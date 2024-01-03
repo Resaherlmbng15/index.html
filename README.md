@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Arisandi pratama - CV</title>
+  <title>Resa Herlambang - CV</title>
   <!-- Add Bootstrap CSS link -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
@@ -13,7 +13,7 @@
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-        <h1>Arisandi pratama</h1>
+        <h1>Resa Herlambang</h1>
         <p>Web Developer</p>
       </div>
     </div>
