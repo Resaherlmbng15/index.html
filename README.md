@@ -29,7 +29,7 @@
     <div class="row mt-3">
       <div class="col-md-8">
         <h2>Experience</h2>
-        <p><strong>PT. Link Gacor </strong> - Web Developer</p>
+        <p><strong>PT. Link Rungkad </strong> - Web Developer</p>
         <p><em>Start Date: maret - end date : Desember</em></p>
         <ul>
           <li>Developed and maintained web applications using HTML, CSS, and JavaScript.</li>
